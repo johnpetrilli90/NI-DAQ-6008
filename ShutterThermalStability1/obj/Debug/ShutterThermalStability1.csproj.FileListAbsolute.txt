@@ -1,0 +1,33 @@
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\ShutterThermalStability1.exe.config
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\ShutterThermalStability1.exe
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\ShutterThermalStability1.pdb
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\NationalInstruments.Common.dll
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\NationalInstruments.DAQmx.dll
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\PowerMeterCommands.dll
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\NationalInstruments.Common.xml
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\NationalInstruments.DAQmx.xml
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.Form1.resources
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.Properties.Resources.resources
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.csproj.GenerateResource.Cache
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.exe
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.pdb
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\PowerMeterLib.dll
+c:\users\john.petrilli\documents\visual studio 2015\Projects\ShutterThermalStability1\ShutterThermalStability1\bin\Debug\UsbDllWrap.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\ShutterThermalStability1.exe.config
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.exe
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.pdb
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\ShutterThermalStability1.exe
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\ShutterThermalStability1.pdb
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.Common.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\PowerMeterCommands.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\PowerMeterLib.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\UsbDllWrap.dll
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.Common.xml
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.Form1.resources
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.Properties.Resources.resources
+C:\Documents\Visual Studio WF\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\ShutterThermalStability1.csproj.GenerateResource.Cache

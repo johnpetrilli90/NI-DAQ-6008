@@ -1,0 +1,15 @@
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NI-6008-AnalogIn.csproj.GenerateResource.cache
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NI-6008-AnalogIn.csproj.CoreCompileInputs.cache
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NI-6008-AnalogIn.exe.config
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NI-6008-AnalogIn.exe
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NI-6008-AnalogIn.pdb
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.Common.dll
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.Common.xml
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NiAnalogIn.Properties.Resources.resources
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NI-6008-AnalogIn.csproj.CopyComplete
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NI-6008-AnalogIn.exe
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NI-6008-AnalogIn.pdb
+C:\Users\john.petrilli\source\repos\NI 6008 2x Analog Input\ShutterThermalStability1\obj\Debug\NiAnalogIn.Form1.resources
